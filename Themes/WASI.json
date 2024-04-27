@@ -26,7 +26,7 @@
             "emojii" : "🍑", 
             "promote": "Admin Role Given to Kami",
             "pmallow": "*Hii,This is Kami\n You have been blocked for spamming.\n\n _Powered by Kami",
-            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Group : \nhttps://chat.whatsapp.com/F0HqDfJTvz66zzApYHrHHo\n\n*Powered by Kami*",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n For Support  : https://wa.me/923052093565?text=*Powered by Kami*",
             "permited": "Hii Sir*\n\nNow You are permitted by my owner to pm now.\n\n _Powered by Kami_", 
             "revoked" : "*Hii Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Kami_",
             "demote": "Uhh,Admin Role Taken back",
